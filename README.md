@@ -1,2 +1,2 @@
-# Leistungsnachweis_Phyton
-Leistungsnachweis von Phyton HS24
+# Leistungsnachweis_Python
+Leistungsnachweis von Python HS24
