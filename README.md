@@ -1,8 +1,7 @@
 # Leistungsnachweis_Python
 ## Übergewicht in verschiedenen Ländern und die Unterschiede von Mann und Frau
 
-**Gruppenmitglieder:** Alessia Molignini, Sara Stettler, Noëlle Keel          
-
+**Gruppenmitglieder:** Alessia Molignini, Sara Stettler, Noëlle Keel             
 **Quelle:** https://ourworldindata.org/grapher/obesity-in-men-vs-obesity-in-women
 
 ### **Outline**
