@@ -2,3 +2,7 @@ Pull from GitHub (cloud)
 work local
 Commit
 Push to GitHub (Cloud)
+
+
+pd.set_option('display.max_rows', None) 
+Keine Maximale ANzahl an Zeilen anzeigen!
